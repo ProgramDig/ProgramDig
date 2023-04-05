@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 <ul>
-    <li>I am a javaScript software engineer.</li>
+    <li>I'm a javaScript software engineer.</li>
 </ul>
 
 ## 🛠 My technical skill
