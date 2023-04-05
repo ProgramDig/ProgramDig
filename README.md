@@ -1,8 +1,8 @@
 # Hi! I am Dmytro 👋 
 
-## 🚀 About Me
+### 🚀 About Me
  I am a javaScript software engineer.
-## 🛠 My technical skill
+### 🛠 My technical skill
 
 
 <div align="center">
@@ -27,7 +27,7 @@
   </a>
 </div> 
 
-## 🔗 Links
+### 🔗 Links
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitry_ann)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-anokhin-8a582924b/)
 
